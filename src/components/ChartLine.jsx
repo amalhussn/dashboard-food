@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import categoryMap from '../data/category_translation_map.json';
 
 import {
   LineChart, Line, XAxis, YAxis, Tooltip,
